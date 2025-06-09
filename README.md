@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently pursuing B.Tech in IIT Kharagpur<br>🌱 I’m currently learning Web3<br>💬 Ask me about DSA,Web dev<br>
+🔭 I’m currently pursuing B.Tech in IIT Kharagpur<br>💬 Ask me about DSA,Web dev<br>
 
 
 ## 🌐 Socials:
