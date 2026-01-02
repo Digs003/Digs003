@@ -61,9 +61,6 @@ I am a versatilist and easily adapt to different hats (**System Engineer ⚙️*
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="SQL" height="40" />
   </a>
-</p>
-
-<p align="left">
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" height="40" />
   </a>&nbsp;
@@ -82,7 +79,6 @@ I am a versatilist and easily adapt to different hats (**System Engineer ⚙️*
   <a href="https://redis.io/" target="_blank">
     <img src="https://cdn.simpleicons.org/redis/DC382D" alt="Redis" height="40" />
   </a>
-</p>
 
 <p align="left">
   <a href="https://reactjs.org/" target="_blank">
