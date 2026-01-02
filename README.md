@@ -1,42 +1,115 @@
-# 💫 About Me:
-🔭 I’m currently pursuing B.Tech in IIT Kharagpur<br>💬 Ask me about DSA,Web dev<br>
+## Hey 👋, I'm Diganta Mandal!
+<p align="left">
+  <a href="https://www.linkedin.com/in/diganta-mandal-4294a324a/">
+    <img src="https://cdn.simpleicons.org/linkedin/0077b5" height="30" alt="linkedin" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/digantamandal003/">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="30" alt="instagram" />
+  </a>
+  &nbsp;
+  <a href="https://www.kaggle.com/digantamandal007">
+    <img src="https://cdn.simpleicons.org/kaggle/20beff" height="30" alt="kaggle" />
+  </a>
+</p>
+
+I am a versatilist and easily adapt to different hats (**System Engineer ⚙️**, **Full Stack Web Developer 🌐**, or **Competitive Programmer 🧠**) depending on what the project requires. I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️
+<br/>
+<br/>
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+  
+### 🧐 More About Me:
+
+- 🔭 &nbsp; I’m currently working on **Resource Utilisation Optimisation Algorithms**
+- 🌱 &nbsp; I’m currently learning more about low latency systems; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Digs003?tab=repositories)
+- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/diganta-mandal-4294a324a/)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/16_DMGHbOQ82sKFMS0ficeCE_DQY6awy-/view?usp=sharing)
+
+<h3>💻 Languages & Tools</h3>
+
+<p align="left">
+  <a href="https://iso.org/standard/74528.html" target="_blank">
+    <img src="https://cdn.simpleicons.org/c/A8B9CC" alt="C" height="40" />
+  </a>&nbsp;
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" height="40" />
+  </a>&nbsp;
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="40" />
+  </a>&nbsp;
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/openjdk/FFFFFF" alt="Java" height="40" />
+  </a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" height="40" />
+  </a>&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" height="40" />
+  </a>&nbsp;
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Bash" height="40" />
+  </a>&nbsp;
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="SQL" height="40" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" height="40" />
+  </a>&nbsp;
+  <a href="https://neovim.io/" target="_blank">
+    <img src="https://cdn.simpleicons.org/neovim/57A143" alt="Neovim" height="40" />
+  </a>&nbsp;
+  <a href="https://github.com/tmux/tmux" target="_blank">
+    <img src="https://cdn.simpleicons.org/tmux/1BB91F" alt="Tmux" height="40" />
+  </a>&nbsp;
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" height="40" />
+  </a>&nbsp;
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" height="40" />
+  </a>&nbsp;
+  <a href="https://redis.io/" target="_blank">
+    <img src="https://cdn.simpleicons.org/redis/DC382D" alt="Redis" height="40" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" height="40" />
+  </a>&nbsp;
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/nextdotjs/white" alt="NextJS" height="40" />
+  </a>&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind" height="40" />
+  </a>&nbsp;
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" alt="PyTorch" height="40" />
+  </a>&nbsp;
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" height="40" />
+  </a>&nbsp;
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/numpy/013243" alt="Numpy" height="40" />
+  </a>&nbsp;
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="ScikitLearn" height="40" />
+  </a>
+</p>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/digantamandal003) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diganta-mandal-4294a324a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Diganta66560190) 
+<h3>📊 Github Stats</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Digs003&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=9f9f9f&icon_color=white" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digs003&layout=compact&theme=transparent&hide_border=true&title_color=white&text_color=9f9f9f" height="150" alt="languages graph" />
+</div>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Digs003&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Digs003&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Digs003&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Digs003&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=Digs003&icon=0&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--
-**Digs003/Digs003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Projects
