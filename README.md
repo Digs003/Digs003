@@ -13,6 +13,7 @@
   </a>
 </p>
 
+
 I am a versatilist and easily adapt to different hats (**System Engineer ⚙️**, **Full Stack Web Developer 🌐**, or **Competitive Programmer 🧠**) depending on what the project requires. I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️
 <br/>
 <br/>
@@ -28,6 +29,10 @@ I am a versatilist and easily adapt to different hats (**System Engineer ⚙️*
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/diganta-mandal-4294a324a/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/16_DMGHbOQ82sKFMS0ficeCE_DQY6awy-/view?usp=sharing)
+
+<br>
+<br>
+<br>
 
 <h3>💻 Languages & Tools</h3>
 
