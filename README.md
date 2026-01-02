@@ -79,16 +79,11 @@ I am a versatilist and easily adapt to different hats (**System Engineer ⚙️*
   <a href="https://redis.io/" target="_blank">
     <img src="https://cdn.simpleicons.org/redis/DC382D" alt="Redis" height="40" />
   </a>
-
-<p align="left">
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" height="40" />
   </a>&nbsp;
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://cdn.simpleicons.org/nextdotjs/white" alt="NextJS" height="40" />
-  </a>&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind" height="40" />
   </a>&nbsp;
   <a href="https://pytorch.org/" target="_blank">
     <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" alt="PyTorch" height="40" />
@@ -99,9 +94,6 @@ I am a versatilist and easily adapt to different hats (**System Engineer ⚙️*
   <a href="https://numpy.org/" target="_blank">
     <img src="https://cdn.simpleicons.org/numpy/013243" alt="Numpy" height="40" />
   </a>&nbsp;
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="ScikitLearn" height="40" />
-  </a>
 </p>
 
 
