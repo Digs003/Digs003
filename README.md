@@ -1,7 +1,8 @@
 ## Hey 👋, I'm Diganta Mandal!
+
 <p align="left">
   <a href="https://www.linkedin.com/in/diganta-mandal-4294a324a/">
-    <img src="https://cdn.simpleicons.org/linkedin/0077b5" height="30" alt="linkedin" />
+    <img src="Images/linkedin.png" height="30" alt="linkedin" />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/digantamandal003/">
@@ -13,7 +14,6 @@
   </a>
 </p>
 
-
 I am a versatilist and easily adapt to different hats (**System Engineer ⚙️**, **Full Stack Web Developer 🌐**, or **Competitive Programmer 🧠**) depending on what the project requires. I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️
 <br/>
 <br/>
@@ -23,7 +23,7 @@ I am a versatilist and easily adapt to different hats (**System Engineer ⚙️*
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **Resource Utilisation Optimisation Algorithms**
-- 🌱 &nbsp; I’m currently learning more about low latency systems; 
+- 🌱 &nbsp; I’m currently learning more about low latency systems;
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Digs003?tab=repositories)
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
@@ -96,11 +96,10 @@ I am a versatilist and easily adapt to different hats (**System Engineer ⚙️*
   </a>&nbsp;
 </p>
 
-
 <h3>📊 Github Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Digs003&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=9f9f9f&icon_color=white" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digs003&layout=compact&theme=transparent&hide_border=true&title_color=white&text_color=9f9f9f" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Digs003&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=9f9f9f&icon_color=white" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Digs003&layout=compact&theme=transparent&hide_border=true&title_color=white&text_color=9f9f9f&hide=jupyter%20notebook" height="150" alt="languages graph" />
 </div>
 
 <br>
