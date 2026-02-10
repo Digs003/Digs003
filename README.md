@@ -18,7 +18,7 @@ I am a versatilist and easily adapt to different hats (**System Engineer ⚙️*
 <br/>
 <br/>
 
-<img align="right" alt="Image" src="Images/github_dashboard.ong" width="360px" height="500px"/>
+<img align="right" alt="Image" src="Images/github_dashboard.png" width="360px" height="500px"/>
   
 ### 🧐 More About Me:
 
